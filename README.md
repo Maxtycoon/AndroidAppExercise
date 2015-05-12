@@ -1,0 +1,4 @@
+- Native Android app developed using Eclipse IDE
+- Added the feature to "Pull to referesh"
+- Images based on mentioned "Tags" (comma seperated)
+- Using public flickr feed - http://www.flickr.com/services/feeds/docs/photos_public/
